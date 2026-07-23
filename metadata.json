@@ -1,0 +1,6 @@
+{
+  "name": "Keyframe Studio",
+  "description": "Modern landing page for Keyframe Studio - a 2D frame-by-frame animation and digital illustration application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
